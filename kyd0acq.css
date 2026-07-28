@@ -1,0 +1,52 @@
+﻿/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * funkydori:
+ *   - http://typekit.com/eulas/00000000000000007735b420
+ * nave:
+ *   - http://typekit.com/eulas/000000000000000077558d39
+ *   - http://typekit.com/eulas/000000000000000077558d40
+ *   - http://typekit.com/eulas/000000000000000077558d3e
+ *   - http://typekit.com/eulas/000000000000000077558d44
+ *
+ * © 2009-2026 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2025-06-30 13:51:01 UTC"}*/
+
+@import url("p.css");
+
+@font-face {
+font-family:"funkydori";
+src:url("af/e1b093/00000000000000007735b420/31/l") format("woff2"),url("af/e1b093/00000000000000007735b420/31/d") format("woff"),url("af/e1b093/00000000000000007735b420/31/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"nave";
+src:url("af/c3021e/000000000000000077558d39/31/l") format("woff2"),url("af/c3021e/000000000000000077558d39/31/d") format("woff"),url("af/c3021e/000000000000000077558d39/31/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"nave";
+src:url("af/cb1fd6/000000000000000077558d40/31/l") format("woff2"),url("af/cb1fd6/000000000000000077558d40/31/d") format("woff"),url("af/cb1fd6/000000000000000077558d40/31/a") format("opentype");
+font-display:auto;font-style:italic;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"nave";
+src:url("af/809f96/000000000000000077558d3e/31/l") format("woff2"),url("af/809f96/000000000000000077558d3e/31/d") format("woff"),url("af/809f96/000000000000000077558d3e/31/a") format("opentype");
+font-display:auto;font-style:italic;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+font-family:"nave";
+src:url("af/87b821/000000000000000077558d44/31/l") format("woff2"),url("af/87b821/000000000000000077558d44/31/d") format("woff"),url("af/87b821/000000000000000077558d44/31/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;font-stretch:normal;
+}
+
+.tk-funkydori { font-family: "funkydori",sans-serif; }
+.tk-nave { font-family: "nave",sans-serif; }
